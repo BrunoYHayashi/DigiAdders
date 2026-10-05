@@ -38,7 +38,7 @@ Para usar os somadores em outro projeto, importe a biblioteca pelo menu *Projeto
 
 ## Relatório
 
-O relatório que acompanha o projeto (`somadores.pdf`) descreve a teoria de cada arquitetura, as decisões de projeto e a comparação entre elas.
+O relatório que acompanha o projeto (`Somadores Digitais-Doc.pdf`) descreve a teoria de cada arquitetura, as decisões de projeto e a comparação entre elas.
 
 ## Autor
 
